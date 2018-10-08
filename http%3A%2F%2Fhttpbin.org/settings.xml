@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:interface xsi:type="con:RestService" id="7a97e8aa-cf0a-476d-a17c-22f9acac0c70" wadlVersion="http://wadl.dev.java.net/2009/02" name="http://httpbin.org" type="rest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:con="http://eviware.com/soapui/config">
+  <con:settings>
+    <con:setting id="7a97e8aa-cf0a-476d-a17c-22f9acac0c70fileName">http%3A%2F%2Fhttpbin.org</con:setting>
+  </con:settings>
+  <con:definitionCache type="TEXT" rootPart=""/>
+  <con:endpoints>
+    <con:endpoint>http://httpbin.org</con:endpoint>
+  </con:endpoints>
+</con:interface>
